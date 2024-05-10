@@ -1,7 +1,5 @@
 package sch.bot.SchDemoBot.service;
 
-/* 7075103472:AAEEKhRE0bPwNddBONL8CABtC-y9pOpVMlw FAQprojectbot */
-
 import com.vdurmont.emoji.Emoji;
 import com.vdurmont.emoji.EmojiParser;
 import lombok.extern.slf4j.Slf4j;
